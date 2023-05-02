@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+@MainActor
 struct CoordinatorView: View {
     @StateObject private var coordinator = Coordinator()
     

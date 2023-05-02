@@ -31,6 +31,7 @@ enum FullScreenCover: String, Identifiable {
     }
 }
 
+@MainActor
 class Coordinator: ObservableObject {
     @Published var path = NavigationPath()
     @Published var sheet: Sheet?

@@ -82,10 +82,10 @@
 		817A599629F2948700B3344D /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				817A59A029F296BD00B3344D /* CoordinatorView.swift */,
 				817A599A29F294CC00B3344D /* AppleView.swift */,
 				817A599C29F294D800B3344D /* OrangeView.swift */,
 				817A599E29F294E300B3344D /* OliveView.swift */,
-				817A59A029F296BD00B3344D /* CoordinatorView.swift */,
 				817A59A229F29C3B00B3344D /* PeachView.swift */,
 				817A59A429F2AD8B00B3344D /* BananaView.swift */,
 			);
